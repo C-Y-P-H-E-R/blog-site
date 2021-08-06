@@ -21,3 +21,7 @@
 .mainsection__recents { 
     width: 70%;
 }
+
+.subnav__styling:hover {
+    transform: scale(1.05);
+}
